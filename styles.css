@@ -1,0 +1,41 @@
+
+
+body{
+ 
+}
+
+.main{
+  display: flex;
+  flex-wrap: wrap;
+  flex: 1 1 1;
+
+    
+}
+
+span{
+    font: .8em sans-serif;
+}
+
+.info{
+  display: flex;
+  flex-direction: column;
+
+}
+
+.forms{
+
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+    border: 1px solid;
+    border-radius: 5px;
+}
+
+h4{
+  background-color:  hsl(248, 32%, 49%);
+  color: white;
+  border: 1px solid;
+  border-radius: 5px;
+}
