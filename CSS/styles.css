@@ -30,3 +30,7 @@ html , * {
   border:1px solid black;
 
 }
+
+fieldset{
+  margin:10px;
+}
